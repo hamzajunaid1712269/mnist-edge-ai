@@ -1,0 +1,13 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+
+inspect_model.py
+predict_local.py
+predict_quant8.py
+export_test_image.py
+test_digit.png
